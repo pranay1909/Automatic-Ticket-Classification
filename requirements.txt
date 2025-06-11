@@ -1,0 +1,12 @@
+streamlit
+langchain
+pinecone
+joblib
+numpy
+dotenv
+langchain_ollama
+langchain_pinecone
+langchain_cohere
+requests
+pypdf
+scikit-learn
